@@ -1,0 +1,16 @@
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.exe
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.deps.json
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.runtimeconfig.json
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.runtimeconfig.dev.json
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.dll
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\ref\Primer parcial.dll
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\bin\Debug\net5.0\Primer parcial.pdb
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.csprojAssemblyReference.cache
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.AssemblyInfoInputs.cache
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.AssemblyInfo.cs
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.dll
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\ref\Primer parcial.dll
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.pdb
+C:\Users\Ángel R. Ogando Vent\Desktop\Itla\Fundamentos de programacion\Programas\Primer parcial\obj\Debug\net5.0\Primer parcial.genruntimeconfig.cache
